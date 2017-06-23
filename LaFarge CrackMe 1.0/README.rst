@@ -9,7 +9,7 @@ I coded it like in... 1 minute! Pure assembler!
 
 Rules:
 
-- U must make the nag messagebox desapear!
+- U must make the nag messagebox disappear!
 - U must make the right message to show!
 - No jumps reversing
 
