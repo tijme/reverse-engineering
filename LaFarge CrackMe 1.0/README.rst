@@ -1,11 +1,13 @@
-Wicked crackme v1.0 by LaFarge
-##############################
+LaFarge CrackMe 1.0
+===================
 
-Hello!
+**Difficulty:** Very easy
 
-This is a simple little crackme for newbies!
+**Source:** `Reddit (torrent) <https://www.reddit.com/r/LiveOverflow/comments/5mfhuu/crackmesde_is_down/>`_
 
-I coded it like in... 1 minute! Pure assembler!
+
+Instructions of author
+^^^^^^^^^^^^^^^^^^^^^^
 
 Rules:
 
@@ -15,10 +17,5 @@ Rules:
 
 Goals:
 
-- Read the rules
-- Make a working loader
-- Make a working patch
-
-That's it!
-
-Get on with it!
+- Make a working loader.
+- Make a working patch.

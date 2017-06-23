@@ -1,7 +1,13 @@
-Crackme v2.0 by Am0kCM
-######################
+Am0kCM CrackMe 2.0
+===================
 
-Hello!
+**Difficulty:** Very easy
+
+**Source:** `Reddit (torrent) <https://www.reddit.com/r/LiveOverflow/comments/5mfhuu/crackmesde_is_down/>`_
+
+
+Instructions of author
+^^^^^^^^^^^^^^^^^^^^^^
 
 Rules:
 
@@ -9,5 +15,4 @@ Rules:
 
 Goals:
 
-- Read the rules
-- Make a working patch
+- Make a working patch.
