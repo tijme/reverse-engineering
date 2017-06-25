@@ -47,5 +47,7 @@ OllyDbg
     <br>
     <kbd>Ctrl</kbd>+<kbd>B</kbd> Binary string search.
     <br>
+    <kbd>Ctrl</kbd>+<kbd>G</kbd> Go to expression (address).
+    <br>
     <kbd>Ctrl</kbd>+<kbd>R</kbd> Find reference to selected block.
     <br><br>
