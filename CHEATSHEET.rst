@@ -8,9 +8,10 @@ IDA PRO
 
 .. raw:: html
 
-    [<kbd>Alt</kbd>+<kbd>T</kbd>] Full text search.
+    <kbd>Alt</kbd>+<kbd>T</kbd> Full text search.
     <br>
-    [<kbd>Spacebar</kbd>] Switch between Hex & Graph view.
+    <kbd>Spacebar</kbd> Switch between Hex & Graph view.
+
 
 
 **Miscellaneous**
