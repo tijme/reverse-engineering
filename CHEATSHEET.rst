@@ -21,4 +21,13 @@ IDA PRO
 OllyDbg
 -----------
 
-Lorem ipsum.
+**Shortcuts**
+
+.. raw:: html
+
+    <kbd>Ctrl</kbd>+<kbd>B</kbd> Binary string search.
+    <br>
+    <kbd>Ctrl</kbd>+<kbd>R</kbd> Find reference to selected block.
+    <br>
+    <kbd>F2</kbd> Toggle a breakpoint.
+    <br><br>
