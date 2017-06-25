@@ -6,7 +6,7 @@ Reverse Engineering
 The Crackme's
 -------------
 
-Every crackme directory contains the original ``crackme.exe`` to solve including the patches or loaders that I created. The ``README.rst`` includes the level of difficulty, the source I got the crackme from and the author's crackme instructions.
+Every crackme directory contains the original ``crackme.exe`` to solve including the patches, loaders or keygens that I created. The ``README.rst`` includes the level of difficulty, the source I got the crackme from and the author's crackme instructions.
 
 Other Stuff
 -----------
