@@ -4,7 +4,9 @@ My Cheatsheet
 IDA PRO
 -------------
 
-Lorem ipsum.
+.. raw:: html
+
+    <kbd>CTRL</kbd>+<kbd>Z</kbd>
 
 OllyDbg
 -----------
