@@ -8,6 +8,14 @@ IDA PRO
 
 .. raw:: html
 
+    <kbd>Esc</kbd> Previous window.
+    <br>
+    <kbd>Ctrl</kbd>+<kdb>Enter</kdb> Next window.
+    <br>
+    <kbd>Shift</kbd>+<kbd>F12</kbd> Show strings window.
+    <br>
+    <kbd>Shift</kbd>+<kbd>F12</kbd> Show strings window.
+    <br>
     <kbd>Alt</kbd>+<kbd>T</kbd> Full text search.
     <br>
     <kbd>Spacebar</kbd> Switch between Hex & Graph view.
