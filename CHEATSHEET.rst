@@ -12,6 +12,7 @@ IDA PRO
     <br>
     [<kbd>Spacebar</kbd>] Switch between Hex & Graph view.
 
+
 **Miscellaneous**
 
 * Solarized dark color scheme (`link <https://github.com/gynophage/solarized_ida>`_)
