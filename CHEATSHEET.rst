@@ -6,7 +6,7 @@ IDA PRO
 
 .. raw:: html
 
-    <kbd>CTRL</kbd>+<kbd>Z</kbd>
+    <kbd>Alt</kbd>+<kbd>T</kbd>: Text search
 
 OllyDbg
 -----------
