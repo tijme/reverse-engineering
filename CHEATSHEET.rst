@@ -4,7 +4,11 @@ My Cheatsheet
 IDA PRO
 -------------
 
-.. raw:: [<kbd>Alt</kbd>+<kbd>T</kbd>] Text search
+.. raw:: html
+
+    [<kbd>Alt</kbd>+<kbd>T</kbd>] Text search
+    
+    [<kbd>Alt</kbd>+<kbd>T</kbd>] Text search
 
 
 OllyDbg
